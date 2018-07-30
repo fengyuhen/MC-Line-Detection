@@ -1,0 +1,7 @@
+list: /data/mc_data/MLDC/data/val/list.txt
+gt_json: /data/mc_data/MLDC/data/val/spline_labels
+pr_json: /data/mc_data/MLDC/data/val/spline_labels
+
+iou: 0.5
+width: 15
+size: (224,224)
